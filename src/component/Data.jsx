@@ -29,28 +29,28 @@ export const social = [
     {
         id: 1,
         url: '#',
-        icon: <BsTelegram color="#f57c00"/>
+        icon: <BsTelegram color="#f57c00" />
     },
     {
         id: 2,
         url: '#',
-        icon: <BsTwitterX color="#f57c00"/>
+        icon: <BsTwitterX color="#f57c00" />
     },
     {
         id: 3,
         url: '#',
-        icon: <BsInstagram color="#f57c00"/>
+        icon: <BsInstagram color="#f57c00" />
     },
     {
         id: 4,
         url: '#',
-        icon: < BsWhatsapp color="#f57c00"/>
+        icon: < BsWhatsapp color="#f57c00" />
     }
 
 ]
 
-export const logoSite={
-    id:1,
-    url:"#",
-    src:logo
+export const logoSite = {
+    id: 1,
+    url: "#",
+    src: logo
 }
