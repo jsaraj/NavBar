@@ -21,6 +21,11 @@ export const links = [
         id: 4,
         url: '#',
         text: 'Contact Us'
+    },
+    {
+        id: 5,
+        url: '#',
+        text: 'Contact Us'
     }
 ]
 
